@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+models/
+aircraft_models/
+evidence/
+verification_output/
+reproduced_figures/

@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript when using these research materials."
+title: "Communication Design for Multi-Agent Aircraft Formations Under Attack"
+type: software
+authors:
+  - family-names: Eslami
+    given-names: Ali
+    affiliation: McGill University
+  - family-names: Yu
+    given-names: Jiangbo
+    affiliation: McGill University
+repository-code: "https://github.com/AlienEslami/formation-attack-design"
+version: "2026-11-09"
+date-released: "2026-11-09"
+abstract: "Exported delayed aircraft models, numerical results, and verification scripts accompanying a conference manuscript on communication design under single-link attacks."
